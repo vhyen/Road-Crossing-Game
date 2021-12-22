@@ -1,0 +1,12 @@
+ 
+- people: 
+	192 x 144 px  ==> 24 x 24 px
+
+- dinosaur: 
+	156 x 24 px ==> 24 x 24 px
+
+- car: 
+	1151 x 368 px
+
+- traffic
+	241 x 191 px
